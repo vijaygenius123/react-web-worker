@@ -1,0 +1,11 @@
+.container {
+  padding: 1em;
+}
+h1  {
+  text-align: center;
+}
+
+.button-container {
+  display: flex;
+  column-gap: 1em;
+}
